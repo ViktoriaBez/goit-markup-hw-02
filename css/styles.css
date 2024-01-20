@@ -114,7 +114,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 }
 .employees {
-background-color:#F4F4FD;
+background-color:#ffffff;
 }
 .employees-name {
 background-color: #ffffff;
@@ -163,7 +163,7 @@ letter-spacing: 0.02em;
 }
 
 /*footter*/
-.end-page {
+.fotter-box {
 background-color: #2E2F42;
 }
 
@@ -181,4 +181,7 @@ color: #F4F4FD;
 font-size: 16px;
 line-height: 1.50; /* 150% */
 letter-spacing: 0.02em;
+}
+.logo-studio-futer{
+    color: #f4f4fd 
 }
