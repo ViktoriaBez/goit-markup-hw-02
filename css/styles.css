@@ -166,7 +166,6 @@ letter-spacing: 0.02em;
 .fotter-box {
 background-color: #2E2F42;
 }
-
 .header-logo-web-footer{
 color:  #4D5AE5;
 font-family: Raleway;
@@ -176,12 +175,13 @@ line-height: 1.16; /* 116.667% */
 letter-spacing: 0.03em;
 text-transform: uppercase;
 }
+.futer-logo-studio{
+color: #f4f4fd; 
+}
 .end-page-text {
 color: #F4F4FD;
 font-size: 16px;
 line-height: 1.50; /* 150% */
 letter-spacing: 0.02em;
 }
-.futer-logo-studio{
-color: #f4f4fd;
-}
+
