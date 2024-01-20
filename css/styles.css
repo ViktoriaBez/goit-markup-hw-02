@@ -80,7 +80,7 @@ cursor: pointer
 }
 .hero-btn:hover,
 .hero-btn:focus{
-    color:#404BBF;
+ background-color:#404BBF;
 }
 /* BENEFITS*/
 .benefits-item {
