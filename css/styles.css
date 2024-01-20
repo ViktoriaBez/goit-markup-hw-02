@@ -40,6 +40,7 @@ letter-spacing: -0.02em;
 }
 /* ADDRESS*/
 .address {
+font-style: normal; 
 }
 .address-item {
 color:  #434455;
