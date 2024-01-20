@@ -4,7 +4,7 @@ body{
     background-color: #FFFFFF;
 }
 
-.ul{
+ul{
     list-style-type: none;
 }
 
@@ -129,15 +129,29 @@ letter-spacing: -0.02em;
 
 /*PORTFOLIO*/
 .portfolio {
+color: #2E2F42;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.11; /* 111.111% */
+letter-spacing: -0.02em;
+text-transform: capitalize;
 }
-.portfolio-project {
-}
+
 .portfolio-project-name {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20; /* 120% */
+    letter-spacing: -0.02em;
 }
 .portfolio-project-using {
+    color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.50; /* 150% */
+letter-spacing: -0.02em;
 }
-
-
 
 /*footter*/
 .end-page {
