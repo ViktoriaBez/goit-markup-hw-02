@@ -33,7 +33,8 @@ line-height: 1.50;
 letter-spacing: -0.02em;
 }
 .header-menu-link:hover,
-.header-menu-link:focus,{
+.header-menu-link:focus,
+.header-menu-link:active{
     color: #404bbf;
 }
 /* ADDRESS*/
