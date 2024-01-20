@@ -18,7 +18,7 @@ a{
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17; 
-    letter-spacing: 0.03em;
+    letter-spacing: -0.03em;
     text-transform: uppercase;
 }
 
@@ -75,7 +75,11 @@ font-weight: 500;
 line-height: 1.50; 
 letter-spacing: -0.04em;
 text-align: center;
+cursor: pointer
 }
+.hero-btn:hover,
+.hero-btn:focus{
+    color:404BBF;
 /* BENEFITS*/
 .benefits-item {
 
