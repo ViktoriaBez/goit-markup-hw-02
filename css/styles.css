@@ -32,8 +32,8 @@ font-weight: 500;
 line-height: 1.50; 
 letter-spacing: -0.02em;
 }
-.header-menu-item:hover,
-.header-menu-item:focus{
+.header-menu-link:hover,
+.header-menu-link:focus,{
     color: #404bbf;
 }
 /* ADDRESS*/
@@ -47,9 +47,9 @@ font-size: 16px;
 line-height: 1.50; 
 letter-spacing: -0.02em;
 }
-.address-item:hover
+.address-item:hover,
 .address-item:focus{
-    color:#404bbf:
+    color:#404bbf;
 }
 
 /*HERO*/
